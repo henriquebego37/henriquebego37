@@ -27,3 +27,5 @@
 ![Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquebego37&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebego37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ ![Snake animation](https://github.com/henriquebego37/rafaballerini/blob/output/github-contribution-grid-snake.svg)
