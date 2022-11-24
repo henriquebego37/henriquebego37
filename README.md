@@ -24,8 +24,15 @@
 
 ## 📊  GitHub Stats :
 
-![Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquebego37&show_icons=true&theme=synthwave)
+![Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquebego37&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebego37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebego37&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👾  GitHub Commits :
 
  ![Snake animation](https://github.com/henriquebego37/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ ## 🎷 Spotify :
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cf30k53ff1ic9i9xg3pfo15of&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cf30k53ff1ic9i9xg3pfo15of&redirect=true)
+
