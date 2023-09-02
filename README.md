@@ -1,10 +1,10 @@
-## Hello 
+## Hello 👋
 
-###Cursado análise e desenvolvimento de softwares e estudando especializações.🌐 👨‍💻 🎓
+Cursado análise e desenvolvimento de softwares e estudando especializações.🌐 👨‍💻 🎓
 
-### Atualmente trabalho como desenvolvedor web na Netbil, onde estou participando e criando projetos para expansão e criação.
+Atualmente trabalho como desenvolvedor web na Netbil, onde estou participando e criando projetos para expansão e criação.
 
-### Pode-se entrar em contato comigo via Linkedin ou e-mail, é o mesmo nome de usuário/prefixo do GitHub.
+Pode-se entrar em contato comigo via Linkedin ou e-mail, é o mesmo nome de usuário/prefixo do GitHub.
 
 ## 🌐 Social:
 
