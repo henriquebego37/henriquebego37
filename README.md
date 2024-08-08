@@ -1,4 +1,4 @@
-## Hello 👋
+## Hi there, I'm Henrique Bego!
 
 Attended analysis and development of software and studying specializations. 🌐 👨 💻 🎓
 
