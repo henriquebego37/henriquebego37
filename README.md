@@ -53,8 +53,8 @@
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebego37&show_icons=true&theme=dracula&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook,scheme,html,css,rich%20text%20format,vim%20script" alt="henriquebego37" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebego37&show_icons=true&theme=dracula" alt="henriquebego37" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquebego37&show_icons=true&theme=dracula&locale=en&custom_title=henriquebego37%27s%20GitHub%20Stats" alt="henriquebego37" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquebego37&show_icons=true&theme=dracula" alt="henriquebego37" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquebego37&theme=dracula" alt="henriquebego37" /></p>
