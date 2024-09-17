@@ -57,4 +57,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquebego37&show_icons=true&theme=dracula" alt="henriquebego37" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquebego37&theme=dracula" alt="henriquebego37" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=henriquebego37&theme=dark" alt="GitHub Streak" /></p>
