@@ -1,5 +1,5 @@
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquebego37&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="henriquebego37" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquebego37&theme=dracula&column=3&margin-w=20&margin-h=20&no-frame=true" alt="henriquebego37" /></a> </p> 
 
 <br>
 
