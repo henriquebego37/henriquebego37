@@ -16,6 +16,7 @@ Mid Level Software Engineer with 4+ years of experience in full-stack developmen
 - **Cloud**: AWS, Azure DevOps, Docker
 - **Databases**: MySQL, PostgreSQL
 - **Architecture**: Microservices, Clean Architecture, DDD
+- **Certificates**: AZ-900
 
 ## 🎯 Current Focus
 
