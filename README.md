@@ -11,11 +11,11 @@ Mid Level Software Engineer with 4+ years of experience in full-stack developmen
 
 ## 💻 Tech Stack
 
-- **Frontend**: React.js, Next.js, MUI, Tailwind CSS, Styled Components
-- **Backend**: Node.js, NestJS, Express.js, Fastify
-- **Cloud**: AWS, Azure DevOps, Docker
+- **Frontend**: React.js, Next.js, MUI, Tailwind CSS
+- **Backend**: Node.js, NestJS (Express.js/Fastify)
+- **Cloud**: AWS, Azure, Docker
 - **Databases**: MySQL, PostgreSQL
-- **Architecture**: Microservices, Clean Architecture, DDD
+- **Architecture**: Microservices, Clean Architecture (DDD)
 - **Certificates**: AZ-900
 
 ## 🎯 Current Focus
