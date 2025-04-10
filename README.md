@@ -6,7 +6,7 @@ I'm a Mid Level Software Engineer with 4+ years of experience in full-stack deve
 
 ## 👨‍💻 About Me
 
-When I’m not coding, I’m probably tweaking old PCs, learning about hardware or restoring my Monza 1988 😄
+When I’m not coding, I’m probably tweaking old PCs, learning about hardware or restoring my Chevrolet Monza 1988 😄
 
 
 ## 🚀 What I'm up to
