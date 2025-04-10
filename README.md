@@ -2,7 +2,12 @@
 
 ### Passionate about building high-performance web applications and cloud solutions.
 
-Mid Level Software Engineer with 4+ years of experience in full-stack development and cloud architecture. Currently focusing on building scalable microservices and cloud solutions.
+I'm a Mid Level Software Engineer with 4+ years of experience in full-stack development and cloud architecture, currently focusing on scalable microservices and cloud-native solutions.
+
+## 👨‍💻 About Me
+
+When I’m not coding, I’m probably tweaking old PCs, learning about hardware or restoring my Monza 1988 😄
+
 
 ## 🚀 What I'm up to
 
