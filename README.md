@@ -19,7 +19,7 @@ When I’m not coding, I’m probably tweaking old PCs, learning about hardware 
 - **Frontend**: React.js, Next.js, MUI, Tailwind CSS
 - **Backend**: Node.js, NestJS (Express.js/Fastify)
 - **Cloud**: AWS, Azure, Docker
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, MongoDB
 - **Architecture**: Microservices, Clean Architecture (DDD)
 - **Certificates**: AZ-900
 
